@@ -1,0 +1,138 @@
+header .logo{ 
+    height: 50px;
+    width: 170x;
+} 
+
+body{
+    background-image: url("https://static.uacdn.net/production/_next/static/images/home/hero_banner_landing.svg?q=75&w=3840" );
+    display: block;
+    overflow-x: hidden;
+    
+}
+
+.heading {
+    font-family: AvertaStd,-apple-system,BlinkMacSystemFont,sans-serif!important;;
+    color: #3C4852;
+    font-size: 50px;
+    font-weight: bold;
+    margin: 110px;
+    margin-left: 70px;
+
+    
+
+}
+
+
+header{
+    display: flex;
+    justify-content: space-between;
+    font-family: AvertaStd,-apple-system,BlinkMacSystemFont,sans-serif!important;;
+    box-sizing: border-box;
+    padding:5px;
+    margin: 55px;
+    margin-top: 5px  ;
+    flex-wrap: wrap;
+    
+
+
+}
+
+header a{
+    text-decoration: none;
+    color: white;
+    background: #08bd80;
+    font-weight: 600;
+    border-radius: 5px;
+    padding: 12px;
+    margin: 10px;
+    padding-inline: 20px;    
+}
+
+
+
+.sub{
+    display: flex;
+    
+    color:#3C4852;
+    margin-left: 150px;
+    
+    font-size:xx-large;
+    margin-top: 150px;
+    font-family: AvertaStd,-apple-system,BlinkMacSystemFont,sans-serif!important;;
+    margin-left: 115px;
+    
+    
+    
+
+    
+}
+.sub div{
+    background: #fff;
+    border-radius: 20px;
+    
+    
+    
+    
+    
+}
+
+.comp{
+    margin-right: 110px;
+    
+    padding-right: 70px;
+    width: 400px;
+    
+    
+}
+
+.subset{
+    font-size: 17px;
+    font-family: AvertaStd,-apple-system,BlinkMacSystemFont,sans-serif!important;;
+    opacity: 10px;
+    color: #A6B3BA;
+    display: flex;
+}
+.comp img{
+    padding-left: 230px;
+    padding-top: none;
+    position: relative;
+}
+
+.board img{
+    padding-left: 260px;
+    padding-top: none;
+    position: relative;
+}
+
+.sub a{
+    text-decoration: none;
+    
+    
+    font-size:17px;
+    font-family: AvertaStd,-apple-system,BlinkMacSystemFont,sans-serif!important;;
+    color: #08bd80;
+    font-weight:550;
+    
+
+}
+
+.learn a{
+    color: #fff;
+    background: #08bd80;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+
+.board{
+    width: 500px;
+    background-image: url("https://static.uacdn.net/production/_next/static/images/home/k12-learning.svg?q=75&w=640");
+    background-color: #cccccc;
+}
+
+.learn{
+    padding-top: none;
+}
+
+
+
